@@ -1,5 +1,4 @@
 # RoR2-Mods-Installer
-Установщик модов BepInEx для Risk of Rain 2
 
 RoR2Mods-Installer v1.0
 Инструкции к установщику модов
@@ -19,7 +18,7 @@ RoR2Mods-Installer v1.0
 
 - В каталоге "Main_Mods_Setup/BepInEx/plugins" можно редактировать состав модов как вам угодно.
 
-- !!! При удалении модов, конфиги модов сохраняются и копируются из папки с игрой: "BepInEx/config", в папку с установщиком: "Main_Mods_Setup/BepInEx/config".
+- !!! При удалении модов, конфиги модов сохраняются, то есть копируются из папки с игрой: "BepInEx/config", в папку с установщиком: "Main_Mods_Setup/BepInEx/config".
 
 - Чтобы удалить моды - в папке с установщиком запустите ярлык "Delete Mods" или в папке с игрой "RoR2-Mods-Deleter.bat".
 
