@@ -1,5 +1,7 @@
 # RoR2-Mods-Installer
 
+Скачать установщик модов: https://github.com/NEMIX10/RoR2-Mods-Installer/releases/tag/RoR2-Mods-Installer
+
 RoR2Mods-Installer v1.0
 Инструкции к установщику модов
 
