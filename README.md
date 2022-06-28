@@ -7,6 +7,7 @@ RoR2Mods-Installer v1.0
 
 1. Указать путь к папке с игрой в файле "install-config.ini".
 Пример: GameFolderPath=С:\Games\Risk of Rain 2\
+Обязательно без кавычек и с бэкшэшем на конце!
 
 2. Если моды уже установлены, то сначала удалите их("RoR2-Mods-Deleter.bat" в папке с игрой), если желаете то сохраните свои конфиги модов из каталога "BepInEx/configs" в папку с установщиком "Main_Mods_Setup/BepInEx/config".
 
