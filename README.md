@@ -4,7 +4,7 @@
 Ниже приведены инструкции и примечания.
 Скачать установщик модов: https://github.com/NEMIX10/RoR2-Mods-Installer/releases/tag/RoR2-Mods-Installer
 
-RoR2Mods-Installer v1.3
+RoR2Mods-Installer v1.4
 
 ----------------------------------------------------
 ## Инструкции к простой установке модов
