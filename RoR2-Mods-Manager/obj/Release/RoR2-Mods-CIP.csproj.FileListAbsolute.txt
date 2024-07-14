@@ -1,0 +1,11 @@
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2-Mods-CIP.csproj.AssemblyReference.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2-Mods-CIP.csproj.SuggestedBindingRedirects.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2_Mods_CIP.MainForm.resources
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2-Mods-CIP.csproj.GenerateResource.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\bin\Release\RoR2-Mods_Manager.exe.config
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\bin\Release\RoR2-Mods_Manager.exe
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\bin\Release\RoR2-Mods_Manager.pdb
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2_Mods_Manager.Properties.Resources.resources
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2-Mods-CIP.csproj.CoreCompileInputs.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2-Mods_Manager.exe
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-CIP\obj\Release\RoR2-Mods_Manager.pdb

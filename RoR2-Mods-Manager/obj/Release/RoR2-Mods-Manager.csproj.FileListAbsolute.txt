@@ -1,0 +1,10 @@
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\bin\Release\RoR2-Mods_Manager.exe.config
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\bin\Release\RoR2-Mods_Manager.exe
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\bin\Release\RoR2-Mods_Manager.pdb
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2-Mods-Manager.csproj.AssemblyReference.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2_Mods_Manager.MainForm.resources
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2_Mods_Manager.Properties.Resources.resources
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2-Mods-Manager.csproj.GenerateResource.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2-Mods-Manager.csproj.CoreCompileInputs.cache
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2-Mods_Manager.exe
+G:\Codes\C#\Projects\Windows Forms\RoR2-Mods-Manager\obj\Release\RoR2-Mods_Manager.pdb
